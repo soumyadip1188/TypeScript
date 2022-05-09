@@ -11,7 +11,6 @@ console.log('speech:', speech);
 //Characteristics of Never
 
 let n1: never;
-
 let v1: any;
 let v2: number;
 let v3: string;
